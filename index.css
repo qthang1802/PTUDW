@@ -1,0 +1,170 @@
+.container main-fixed-content{
+    width: 960px;
+  
+}
+
+body {
+    color: #777;
+   
+}
+
+h1 {
+    color: #000;
+}
+
+#logo {
+    color: #ff0000;
+    font-size: 24px;
+}
+
+#call-now {
+    color: #ff0000;
+    font-size: 18px;
+}
+
+#slogan {
+    display: inline-block;
+    color: #666;
+}
+
+#main-content {
+    background: #fbfbfb;
+    
+    
+    line-height:35px;
+    
+}
+
+#or {
+    text-align: center;
+    
+    font-size:30px;
+   
+}
+
+
+
+#button1{
+    width: 170px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius:25px;
+    
+    background: orange;
+    box-shadow: 5px 10px 8px #888888;
+    text-align: center;
+}
+
+#button2{
+    width: 170px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius:25px;
+    background: #d6d8d8;
+    box-shadow: 5px 10px 8px #888888;
+    text-align: center;
+}
+
+.shadow-banner{
+    width:100%;
+    height:1px;
+    border-radius:100%;
+    content:"";
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#button3{
+    text-align: center;
+}
+#sub-content1{
+   padding-top: 15px;
+    
+}
+
+#nav-sub-content2-1{
+    font-size:15px;
+    line-height: 25px;
+}
+
+#nav-sub-content2{
+    color: orange;
+    font-size:15px;
+    
+}
+
+#slider{
+    text-align: center;
+}
+
+
+#bubble{
+    position: relative;
+    border: 1px solid #777;
+    width: 100%;
+    padding: 20px 20px;
+    font-size: 20px;
+    margin-top:20px;
+    text-align: center;
+}
+
+#bubble::before {
+    content: '';
+	position: absolute;
+	bottom: 0;
+	left: 62px;
+    border: 20px solid transparent;
+	border-top-color: #777;
+	border-bottom: 0;
+	border-right: 0;
+	margin-left: -10px;
+	margin-bottom: -20px;
+} 
+
+
+#bubble::after {
+    content: '';
+	position: absolute;
+	bottom: 0;
+	left: 62px;
+	border: 20px solid transparent;
+	border-top-color: white;
+	border-bottom: 0;
+	border-right: 0;
+	margin-left: -10.85px;
+	margin-bottom: -17.5px;
+} 
+
+
+
+#sign{
+    position: absolute;
+    left:80px;
+    bottom: -50%;
+
+}
+
+
+
+
+#contact{
+  
+    background-color: #323232;
+   
+}
+
+#logo1{
+    font-size:30px;
+    color: #707070;
+}
+#footer{
+  
+    
+ 
+    background-color: #222222;
+}
+
+
+
+
